@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.search {
+    /* margin: 10px; */
+    height: 50px;
+    /* width:300px; */
+    background-image: url('https://images.vexels.com/media/users/3/132068/isolated/preview/f9bb81e576c1a361c61a8c08945b2c48-search-icon-by-vexels.png');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 20px 20px;
+}
+
+.bttn {
+    background-color: #C3DFE2;
+}
+.bttn:hover {
+    background-color: cornflowerblue;
+    color: azure;
+}
+.bttn:focus, .btttn:focus, .search:focus, .lists-1:focus, .page:focus {
+    outline: none;
+    box-shadow: none;
+}
+.cart-section {
+    width:100px;
+} 
+
+.list-1 {
+    margin-right: 200px;
+    text-align: center;
+    box-shadow: none;
+}
+
+.LD-1 {
+    background-color: #FFC107;
+    text-align: center;
+    font-size: 30px;
+}
+.LD-2 {
+    margin-top:20px;
+    background-color:#477397;
+    text-align: center;
+    font-size: 30px;
+    color:cornsilk;
+    border-radius: 10px;
+}
+
+.container-wfh {
+    /* background-color:#C3DFE2 ; */
+    /* height:500px; */
+    width:100%;
+    border:none;
+}
+
+.forcolor {
+    color:rgb(44, 44, 221);
+    font-size: 15px;
+}
+
+.forcolor1 {
+    color:rgb(20, 182, 41);
+    font-size: 15px;
+}
+
+/* footer {
+    background-color: rgb(218, 216, 216);;
+} */
+
+.whatsapp {
+    color:rgb(118, 224, 118);
+}
+.instagram {
+    color:rgb(211, 101, 152);
+}
+.google {
+    color:rgb(248, 18, 18);
+}
